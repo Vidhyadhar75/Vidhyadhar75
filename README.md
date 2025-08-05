@@ -43,8 +43,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: kotagiri.vidhyadhara@gmail.com  
-- 🔗 LinkedIn: [Vidhyadhara Rao Kotagiri](https://www.linkedin.com/in/vidhyadhara-rao-kotagiri)  
+- 📧 Email: vidhyadharkotagiri@gmail.com  
+- 🔗 LinkedIn: [Vidhyadhara Rao Kotagiri](https://www.linkedin.com/in/vidhyadhara-k/)  
 - 🧑‍💻 GitHub: [Vidhyadhar75](https://github.com/Vidhyadhar75)
 
 ---
